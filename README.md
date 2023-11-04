@@ -83,6 +83,7 @@ plt.title("Customer Segments")
 
 ## KMeans clusters
 ![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m5.png)
+
 ![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m6.png)
 
 ## Customer segments Graph
