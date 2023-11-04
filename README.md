@@ -70,17 +70,23 @@ plt.title("Customer Segments")
 
 # Output:
 ## data.head()
+![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m1.png)
+
 ## data.info
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](2.png)
+![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m2.png)
+
 ## data.isnull.sum()
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](3.png)
+![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m3.png)
+
 ## Elbow method Graph
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](4.png)
+![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m4.png)
+
 ## KMeans clusters
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](5.png)
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](6.png)
+![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m5.png)
+![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m6.png)
+
 ## Customer segments Graph
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](7.png)
+![image](https://github.com/SAKTHISWAR/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/m7.png)
 
 # Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
